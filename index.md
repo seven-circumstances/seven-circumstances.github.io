@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Seven Circumstances
 ---
-# Thingking Machine
+# Seven Circumstances
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Seven-Circumstances (meta)](https://seven-circumstances.github.io/meta/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Seven-Circumstances (gemini)](https://seven-circumstances.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Seven-Circumstances (geminit)](https://seven-circumstances.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Seven-Circumstances (openai)](https://seven-circumstances.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Seven-Circumstances (openaic)](https://seven-circumstances.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Seven-Circumstances (oaio)](https://seven-circumstances.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Seven-Circumstances (grok)](https://seven-circumstances.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Seven-Circumstances (grokf)](https://seven-circumstances.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Seven-Circumstances (grokc)](https://seven-circumstances.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Seven-Circumstances (fireworks)](https://seven-circumstances.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Seven-Circumstances (fireworksr)](https://seven-circumstances.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Seven-Circumstances (fireworkc)](https://seven-circumstances.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Seven-Circumstances (depsek)](https://seven-circumstances.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Seven-Circumstances (depsekc)](https://seven-circumstances.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Seven-Circumstances (depsekr)](https://seven-circumstances.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Seven-Circumstances (depsekrp)](https://seven-circumstances.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Seven-Circumstances is just one of participants of the [Multilogue](multilogue)
